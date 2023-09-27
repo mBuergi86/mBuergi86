@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mBuergi86 and study at TEKO
-- 👀 I’m interested in travel, photo, family
-- 🌱 I’m currently learning application engineer
-- 💞️ I’m looking to collaborate on GoLang
-- 📫 How to reach me mail
+👋 Hi, I'm @mBuergi86, and I'm a software engineering student.
+👀 I have a passion for travel, photography, and spending time with my family.
+🌱 Currently, I'm focused on honing my skills as an application engineer.
+💞️ I'm eager to collaborate on projects involving Golang, Java, Rust, and anything else that piques my interest.
 
 <!---
 mBuergi86/mBuergi86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
